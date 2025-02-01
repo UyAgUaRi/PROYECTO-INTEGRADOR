@@ -41,6 +41,8 @@ INSTALACIÓN DE SERVIDORES
 3. Continuamos agregando el puerto “54321” a la configuración del nano
 
 `sudo dnf install -y openssh-server`
+`sudo dnf install -y openssh-server`
+`sudo dnf install -y openssh-server`
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/d39b6840-63a5-4353-b1f8-09cf82e780d8" alt="Imagen de instalación" width="80%">
