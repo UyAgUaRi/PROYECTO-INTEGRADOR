@@ -80,4 +80,47 @@
    <p align="center">
    <img src="https://github.com/user-attachments/assets/96a17632-e6e8-4b8e-9397-48c2c9ed4bf7" alt="Imagen de instalación" width="80%">
    </p>
-   
+
+
+   7. Conexión remota con mobaxterm
+
+   <p align="center">
+<img src="https://github.com/user-attachments/assets/482a467e-ea29-4aff-bb31-11241c05710d" alt="Imagen de instalación" width="80%">
+</p>
+
+
+### INSTALACIÓN DE POSTFIX
+
+1. Proceda a instalar el paquete de postfix
+
+   `sudo dnf install postfix -y`
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/2da7e2b7-4123-4366-a62e-6380704f90b5" alt="Imagen de instalación" width="80%">
+</p>
+
+
+2. Habilite como servicio predeterminado
+
+   `sudo systemctl enable postfix`
+
+   `sudo systemctl start postfix`
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/97180813-f0c1-4300-af88-7ad805b6c8d5" alt="Imagen de instalación" width="80%">
+   </p>
+
+
+   3. Empiece con la configración
+
+      `sudo nano /etc/postfix/main.cf`
+
+   <p align="center">
+      <img src="https://github.com/user-attachments/assets/306b3aee-f751-48a1-aa8d-2f32e1796e29" alt="Imagen de instalación" width="80%">
+      </p>
+
+
+      <p align="center">
+      <img src="https://github.com/user-attachments/assets/97a4ed85-9c8d-49a7-8c44-efda69ac599e" alt="Imagen de instalación" width="80%">
+      </p>
+
