@@ -16,16 +16,11 @@
 > nataly.merchan@ucuenca.edu.ec  
 
 
-
-
-
 INTRODUCCIÓN
 
 
-
-
-
-
+### CREACIÓN DE UNA NUEVA MÁQUINA VIRTUAL
+### INSTALACIÓN DE SISTEMA OPERATIVO - CentOS 9 Stream
 ### INSTALACIÓN DEL SERVIDOR - SSH
 1. Empezamos ejecutando el comando “sudo dnf install -y openssh-server” para instalar el servicio de ssh.
    
@@ -92,7 +87,7 @@ INTRODUCCIÓN
 </p>
 
 
-### INSTALACIÓN DE POSTFIX
+### INSTALACIÓN DEL SERVIDOR POSTFIX
 
 1. Proceda a instalar el paquete de postfix
 
