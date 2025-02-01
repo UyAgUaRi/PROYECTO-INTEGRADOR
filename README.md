@@ -164,7 +164,7 @@
    </p>
 
 
-   8. Revise cola de correos
+8. Revise cola de correos
 
       `sudo mailq`
 
