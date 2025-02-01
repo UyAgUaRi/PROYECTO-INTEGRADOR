@@ -4,24 +4,21 @@
 </p>
 
 
-<h1 align="center">PROYECTO-INTEGRADOR</h1>
+<h1 align="center">PROYECTO - INTEGRADOR</h1>
 
-INSTALACIÓN DE SERVIDORES
-- Integrantes:
+> 🚀 **Integrantes**  
+> **Erick Uyaguari**  
+> Esteban Molina
+
+Integrantes:
 -   Erick Uyaguari
 -   Esteban Molina
 -   Genaro Quezada
 -   Yadira Merchan
 
-`sudo yum update`
+; Documentación de Servidores
 
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> 🚀 **INSTALACIÓN DE SERVIDOR SSH**  
-> **PASO 1:**  
-> Explicación del primer paso aquí...
 
 
 
