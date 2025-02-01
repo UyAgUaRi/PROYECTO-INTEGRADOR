@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/7f068076-91e3-4775-aa04-8256db3fa184" width="20%" />
 </p>
 
-<h1 align="center">PROYECTO - INTEGRADOR</h1>
+<h1 align="center">Documentación de Servidores</h1>
 
 > 🌟 *Integrantes:*  
 > * Erick Uyaguari  
@@ -16,9 +16,6 @@
 > nataly.merchan@ucuenca.edu.ec  
 
 
-
-
-## Documentación de Servidores
 
 INTRODUCCIÓN
 
