@@ -20,13 +20,13 @@ INTRODUCCIÓN
 
 
 ### CREACIÓN DE UNA NUEVA MÁQUINA VIRTUAL
-
+1. 
 ### INSTALACIÓN DE SISTEMA OPERATIVO - CentOS 9 Stream
-
+1. 
 ### INSTALACIÓN DEL SERVIDOR - SAMBA
-
+1. 
 ### INSTALACIÓN DEL SERVIDOR - PLEX
-
+1. 
 ### INSTALACIÓN DEL SERVIDOR - SSH
 1. Empezamos ejecutando el comando “sudo dnf install -y openssh-server” para instalar el servicio de ssh.
    
