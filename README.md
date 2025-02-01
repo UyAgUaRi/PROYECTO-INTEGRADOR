@@ -1,10 +1,7 @@
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: center; width: 100%;">
   <img src="https://github.com/user-attachments/assets/4367553f-58c5-4ca0-b192-974c17a0aa57" width="20%" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/638c8c67-5aa7-4a8f-848f-21873d67b8a2" width="20%" />
 </div>
-
-
-
 
 
 # PROYECTO-INTEGRADOR
