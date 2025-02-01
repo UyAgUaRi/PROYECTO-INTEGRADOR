@@ -49,3 +49,9 @@ INSTALACIÓN DE SERVIDORES
     </p>
 
     
+6. Conectamos el servicio
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/96a17632-e6e8-4b8e-9397-48c2c9ed4bf7" alt="Imagen de instalación" width="80%">
+   </p>
+
+   
