@@ -6,15 +6,12 @@
 
 <h1 align="center">PROYECTO - INTEGRADOR</h1>
 
-> 🚀 **Integrantes**  
-> **Erick Uyaguari**  
-> Esteban Molina
+> 🌟 **Integrantes**  
+> **Erick Uyaguari*
+> **Esteban Molina*
+> **Genaro Quezada*
+> **Yadira Merchán*
 
-Integrantes:
--   Erick Uyaguari
--   Esteban Molina
--   Genaro Quezada
--   Yadira Merchan
 
 ; Documentación de Servidores
 
