@@ -7,6 +7,3 @@ xd me gusta
 bla
 BLA
 bla
-![image](https://github.com/user-attachments/assets/56eae5fa-253f-41bf-9b14-d71a002a4852)
-
-![image](https://github.com/user-attachments/assets/e2959c56-a9a9-4e13-ac4e-2d66c00b05e9)
