@@ -7,13 +7,13 @@
 <h1 align="center">PROYECTO - INTEGRADOR</h1>
 
 > 🌟 *Integrantes*  
-> * - Erick Uyaguari*  
+> * -Erick Uyaguari*  
 > erick.uyaguari@ucuenca.edu.ec  
-> * - Esteban Molina**  
+> * -Esteban Molina**  
 > esteban.molina@ucuenca.edu.ec  
-> * - Genaro Quezada*  
+> * -Genaro Quezada*  
 > genaro.quezada@ucuenca.edu.ec  
-> * - Yadira Merchán*  
+> * -Yadira Merchán*  
 > nataly.merchan@ucuenca.edu.ec  
 
 
