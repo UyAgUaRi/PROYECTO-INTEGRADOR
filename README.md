@@ -41,3 +41,11 @@ INSTALACIÓN DE SERVIDORES
 <p align="center">
    <img src="https://github.com/user-attachments/assets/9f1496a9-d567-4b7e-af44-928bc3acd3be" alt="Imagen de instalación" width="80%">
 </p>
+
+
+5. Reiniciamos el servicio ssh para actualizar los cambios y que empiece su funcionamiento
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/c1c57d55-e1e9-42c1-a475-c93a4debd205" alt="Imagen de instalación" width="80%">
+    </p>
+
+    
