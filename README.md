@@ -8,13 +8,13 @@
 
 > 🌟 *Integrantes*  
 > *Erick Uyaguari*  
-> erick.uyaguari@ucuenca.edu.ec
+> erick.uyaguari@ucuenca.edu.ec  
 > *Esteban Molina**  
-> esteban.molina@ucuenca.edu.ec
+> esteban.molina@ucuenca.edu.ec  
 > *Genaro Quezada*  
-> genaro.quezada@ucuenca.edu.ec
+> genaro.quezada@ucuenca.edu.ec  
 > *Yadira Merchán*  
-> nataly.merchan@ucuenca.edu.ec
+> nataly.merchan@ucuenca.edu.ec  
 
 
 > 🚀 *INSTALACIÓN DE SERVIDOR SSH*  
