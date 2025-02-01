@@ -6,12 +6,15 @@
 
 <h1 align="center">PROYECTO - INTEGRADOR</h1>
 
-> 🌟 *Integrantes*
-> *Erick Uyaguari*
+> 🌟 *Integrantes*  
+> *Erick Uyaguari*  
 > erick.uyaguari@ucuenca.edu.ec
-> **Esteban Molina**
-> **Genaro Quezada**
-> **Yadira Merchán**
+> *Esteban Molina**  
+> esteban.molina@ucuenca.edu.ec
+> *Genaro Quezada*  
+> genaro.quezada@ucuenca.edu.ec
+> *Yadira Merchán*  
+> nataly.merchan@ucuenca.edu.ec
 
 
 > 🚀 *INSTALACIÓN DE SERVIDOR SSH*  
