@@ -22,7 +22,7 @@
 
 INTRODUCCIÓN
 
-##* INSTALACIÓN DEL SERVIDOR - SSH
+## INSTALACIÓN DEL SERVIDOR - SSH
 1. Empezamos ejecutando el comando “sudo dnf install -y openssh-server” para instalar el servicio de ssh.
    
 `sudo dnf install -y openssh-server`
