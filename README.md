@@ -3,7 +3,6 @@
   <img src="https://github.com/user-attachments/assets/7f068076-91e3-4775-aa04-8256db3fa184" width="20%" />
 </p>
 
-
 <h1 align="center">PROYECTO - INTEGRADOR</h1>
 
 > 🌟 *Integrantes:*  
@@ -16,14 +15,14 @@
 > * Yadira Merchán  
 > nataly.merchan@ucuenca.edu.ec  
 
-## Documentación de Servidores
 
 
 
+### Documentación de Servidores
 
+INTRODUCCIÓN
 
-
-## INSTALACIÓN DEL SERVIDOR - SSH
+##* INSTALACIÓN DEL SERVIDOR - SSH
 1. Empezamos ejecutando el comando “sudo dnf install -y openssh-server” para instalar el servicio de ssh.
    
 `sudo dnf install -y openssh-server`
