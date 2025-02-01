@@ -9,7 +9,7 @@
 > 🌟 *Integrantes*  
 > * Erick Uyaguari*  
 > erick.uyaguari@ucuenca.edu.ec  
-> * Esteban Molina**  
+> * Esteban Molina*  
 > esteban.molina@ucuenca.edu.ec  
 > * Genaro Quezada*  
 > genaro.quezada@ucuenca.edu.ec  
