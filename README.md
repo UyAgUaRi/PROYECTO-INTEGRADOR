@@ -4,7 +4,8 @@
 </p>
 
 
-# PROYECTO-INTEGRADOR
+<h1 align="center">PROYECTO-INTEGRADOR</h1>
+
 INSTALACIÓN DE SERVIDORES
 - Integrantes:
 -   Erick Uyaguari
