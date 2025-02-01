@@ -6,6 +6,8 @@ INSTALACIÓN DE SERVIDORES
 -   Genaro Quezada
 -   Yadira Merchan
 
+`sudo yum update`
+
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
