@@ -6,12 +6,18 @@
 
 <h1 align="center">PROYECTO - INTEGRADOR</h1>
 
-> 🌟 **Integrantes**  
-> **Erick Uyaguari
+> 🌟 *Integrantes*
+> *Erick Uyaguari*
 > erick.uyaguari@ucuenca.edu.ec
 > **Esteban Molina**
 > **Genaro Quezada**
 > **Yadira Merchán**
+
+
+> 🚀 *INSTALACIÓN DE SERVIDOR SSH*  
+> *PASO 1:*  
+> Explicación del primer paso aquí...
+
 
 
 ; Documentación de Servidores
