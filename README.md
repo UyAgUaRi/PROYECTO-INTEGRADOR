@@ -7,5 +7,5 @@ xd me gusta
 bla
 BLA
 bla
-![download](https://github.com/user-attachments/assets/dcf6a391-b116-4521-9e69-8469b7629522)
+![image](https://github.com/user-attachments/assets/56eae5fa-253f-41bf-9b14-d71a002a4852)
 
