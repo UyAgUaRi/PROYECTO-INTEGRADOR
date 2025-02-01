@@ -93,7 +93,7 @@ INTRODUCCIÓN
 </p>
 
 
-### INSTALACIÓN DEL SERVIDOR POSTFIX
+### INSTALACIÓN DEL SERVIDOR - POSTFIX
 
 1. Proceda a instalar el paquete de postfix
 
