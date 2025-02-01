@@ -124,5 +124,54 @@
       </p>
 
 
-4.
+4. Configure el firewall
+   
+`sudo firewall-cmd --permanent --add-service=smtp`
+
+`sudo firewall-cmd --permanent --add-service=smtps`
+
+`sudo firewall-cmd --reload`
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/80efab2b-8998-4b82-9258-2a526c6c36d3" alt="Imagen de instalación" width="80%">
+</p>
+
+
+5. Reinicie Postfix
+
+   `sudo systemctl restart postfix`
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/6c9daa4f-ff68-4746-90a9-b5710fbd4269" alt="Imagen de instalación" width="80%">
+</p>
+
+
+6. Verifique el estado
+   
+   `sudo systemctl status postfix.service`
+   
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c3cdcc4b-96cd-4cef-bf8a-8c080da97560" alt="Imagen de instalación" width="80%">
+</p>
+
+
+7. Pruebe el servicio (Instalar paquete si es necesario)
+
+   `echo "Prueba de Postfix en CentOS 9" | mail -s "Correo de prueba" tuemail@dominio.com`
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/70d140c9-3b6a-4c94-98d8-6ddbc1b56e05" alt="Imagen de instalación" width="80%">
+   </p>
+
+
+   8. Revise cola de correos
+
+      `sudo mailq`
+
+      <p align="center">
+      <img src="https://github.com/user-attachments/assets/cf7bdf73-56fc-462a-b887-4c72e7af00e2" alt="Imagen de instalación" width="80%">
+      </p>
+
+      
+
 
