@@ -111,16 +111,18 @@
    </p>
 
 
-   3. Empiece con la configración
+3. Empiece con la configración
 
       `sudo nano /etc/postfix/main.cf`
 
    <p align="center">
       <img src="https://github.com/user-attachments/assets/306b3aee-f751-48a1-aa8d-2f32e1796e29" alt="Imagen de instalación" width="80%">
       </p>
-
-
+      
       <p align="center">
       <img src="https://github.com/user-attachments/assets/97a4ed85-9c8d-49a7-8c44-efda69ac599e" alt="Imagen de instalación" width="80%">
       </p>
+
+
+4.
 
