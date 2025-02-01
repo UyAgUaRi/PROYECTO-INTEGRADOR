@@ -1,5 +1,10 @@
 # PROYECTO-INTEGRADOR
 INSTALACIÓN DE SERVIDORES
+- Integrantes:
+-   Erick Uyaguari
+-   Esteban Molina
+-   Genaro Quezada
+-   Yadira Merchan
 
 
 > [!IMPORTANT]
