@@ -4,9 +4,6 @@
 </p>
 
 
-
-
-
 # PROYECTO-INTEGRADOR
 INSTALACIÓN DE SERVIDORES
 - Integrantes:
