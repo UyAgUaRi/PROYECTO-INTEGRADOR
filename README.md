@@ -41,6 +41,7 @@ INSTALACIÓN DE SERVIDORES
 2. Seguido de la instalación agregamos el servicio de ssh al firewall.
 
 `sudo firewall-cmd --permanent --add-service=ssh`
+
 `sudo firewall-cmd --reload`
    
 <p align="center">
