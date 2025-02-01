@@ -1,6 +1,9 @@
 # PROYECTO-INTEGRADOR
 INSTALACIÓN DE SERVIDORES
-xd me gusta 
+
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
 
 # INSTALACIÓN DEL SERVIDOR - SSH
