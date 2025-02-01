@@ -1,3 +1,12 @@
+<p align="left">
+  <img src="![image](https://github.com/user-attachments/assets/4367553f-58c5-4ca0-b192-974c17a0aa57)" width="300"/>
+</p>
+<p align="right">
+  <img src="![image](https://github.com/user-attachments/assets/638c8c67-5aa7-4a8f-848f-21873d67b8a2)" width="300"/>
+</p>
+
+
+
 # PROYECTO-INTEGRADOR
 INSTALACIÓN DE SERVIDORES
 - Integrantes:
