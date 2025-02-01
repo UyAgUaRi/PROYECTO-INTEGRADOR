@@ -16,14 +16,7 @@
 > * Yadira Merchán  
 > nataly.merchan@ucuenca.edu.ec  
 
-
-> 🚀 *INSTALACIÓN DE SERVIDOR SSH*  
-> *PASO 1:*  
-> Explicación del primer paso aquí...
-
-
-
-; Documentación de Servidores
+## Documentación de Servidores
 
 
 
