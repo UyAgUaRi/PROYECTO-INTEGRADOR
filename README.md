@@ -17,10 +17,6 @@ INSTALACIÓN DE SERVIDORES
 
 ![image](https://github.com/user-attachments/assets/713117f6-4b29-4253-aefe-6f64cf2d3994)
 
-1. Empezamos ejecutando el comando “sudo dnf install -y openssh-server” para instalar el servicio de ssh.
-
-![image](https://github.com/user-attachments/assets/713117f6-4b29-4253-aefe-6f64cf2d3994)
-
 2. Seguido de la instalación agregamos el servicio de ssh al firewall.
 
    ![image](https://github.com/user-attachments/assets/89db1527-5dfd-4685-b9a4-a1cab7be229e)
