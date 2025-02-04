@@ -21,12 +21,29 @@ INTRODUCCIÓN
 
 ### CREACIÓN DE UNA NUEVA MÁQUINA VIRTUAL
 1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### INSTALACIÓN DE SISTEMA OPERATIVO - CentOS 9 Stream
 1. 
-### INSTALACIÓN DEL SERVIDOR - ISSABEL
-1. 
-### INSTALACIÓN DEL SERVIDOR - PLEX
-1. 
+
+
+
+
+
+
+
+
 ### INSTALACIÓN DEL SERVIDOR - SSH
 1. Empezamos ejecutando el comando “sudo dnf install -y openssh-server” para instalar el servicio de ssh.
    
@@ -91,6 +108,20 @@ INTRODUCCIÓN
    <p align="center">
 <img src="https://github.com/user-attachments/assets/482a467e-ea29-4aff-bb31-11241c05710d" alt="Imagen de instalación" width="80%">
 </p>
+
+
+
+### INSTALACIÓN DEL SERVIDOR - SAMBA
+1. 
+
+
+
+
+
+
+
+
+
 
 
 ### INSTALACIÓN DEL SERVIDOR - POSTFIX
@@ -176,6 +207,29 @@ INTRODUCCIÓN
       <img src="https://github.com/user-attachments/assets/cf7bdf73-56fc-462a-b887-4c72e7af00e2" alt="Imagen de instalación" width="80%">
       </p>
 
-      
+
+### INSTALACIÓN DEL SERVIDOR - PLEX
+1. 
+
+
+
+
+
+
+### INSTALACIÓN DEL SERVIDOR - DNS
+1. 
+
+
+
+
+
+
+
+### INSTALACIÓN DEL SERVIDOR - ISSABEL
+1. 
+
+
+
+
 
 
