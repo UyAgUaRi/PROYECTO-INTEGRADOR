@@ -209,7 +209,7 @@ INTRODUCCIÓN
 
 
 ### INSTALACIÓN DEL SERVIDOR - PLEX
-1. 
+1. 3
 
 
 
@@ -217,10 +217,79 @@ INTRODUCCIÓN
 
 
 ### INSTALACIÓN DEL SERVIDOR - DNS
-1. 
+1. Descargue el plex, descargar el que esta subrayado
 
+   <p align="center">
+    <img src="https://github.com/user-attachments/assets/77a10fc6-f27b-4f2a-bd30-77c0c2e9fc39" alt="Imagen de instalación" width="80%">
+    </p>
 
+2. Abra la carpeta descargada e instalamos
 
+   <p align="center">
+<img src="https://github.com/user-attachments/assets/dd2f660f-2a1a-4db5-9b94-655d564c90d5" alt="Imagen de instalación" width="80%">
+</p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8aff06dc-709f-4ab1-9b58-ff5fb6bcf148" alt="Imagen de instalación" width="80%">
+</p>
+
+3. Active e inicie plex
+
+   `sudo systemctl enable plexmediaserver.service`
+
+   `sudo systemctl start plexmediaserver.service`
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/74811c50-78b4-40c5-8317-f615fcecf96d" alt="Imagen de instalación" width="80%">
+   </p>
+   
+4. Configure el firewall añadiendo el puerto "32400"
+
+   `sudo firewall-cmd --add-port=32400/tcp --permanent`
+
+   `sudo firewall-cmd -reload`
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/40a37ad1-0c3b-47c0-a4f6-409b4eace939" alt="Imagen de instalación" width="80%">
+</p>
+
+5. Acceda a plex desde el navegador usando "https://<ip-servidor-centos>:32400/web" (si no funciona con la ip del servidor) pruebe con esto "https://localhost:32400/web"
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/e0883ae8-c91f-4b83-8d29-436da4e1a0a3" alt="Imagen de instalación" width="80%">
+   </p>
+
+6. Configure plex, cree una cuenta
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/f0ae263d-c91e-41da-8c6b-8706e42fd936" alt="Imagen de instalación" width="80%">
+      </p>
+
+7. Una vez creada la cuenta proceda a darle un nombre a la empresa
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/fb3c3ff5-581e-4a41-a80c-1b69ac40f2ba" alt="Imagen de instalación" width="80%">
+      </p>
+
+8. Posteriormente de click en el nombre de la emprea para poder agregar bibliotecas
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/d83ddc72-bae5-4fb8-aab8-10c0d92e7018"
+ alt="Imagen de instalación" width="80%">
+      </p>
+
+9. Añada a la biblioteca
+
+    <p align="center">
+   <img src="https://github.com/user-attachments/assets/e990b19a-9353-4e52-ad46-f6e679dcdb80" alt="Imagen de instalación" width="80%">
+      </p>
+
+10. De un nombre a la carpeta y siguiente
+
+     <p align="center">
+   <img src="https://github.com/user-attachments/assets/52ae1835-e673-428f-9ba5-226715cd8ccb"
+ alt="Imagen de instalación" width="80%">
+      </p>
 
 
 
