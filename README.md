@@ -352,7 +352,7 @@ INTRODUCCIÓN
 
     `sudo nano /etc/NetworkManager/conf.d/10-dns.conf`
 
-    <p align="center">
+<p align="center">
    <img src="https://github.com/user-attachments/assets/8a8f8ae9-146f-4a17-be7f-f893efb62186"
 alt="Imagen de instalación" width="80%">
       </p>
@@ -361,7 +361,7 @@ alt="Imagen de instalación" width="80%">
 
     `sudo systemctl reload NetworkManager`
 
-    <p align="center">
+<p align="center">
    <img src="https://github.com/user-attachments/assets/cde19e15-ed0e-48ac-949f-212aff12d525"
 alt="Imagen de instalación" width="80%">
       </p>
@@ -370,14 +370,14 @@ alt="Imagen de instalación" width="80%">
 
     `sudo nano /etc/resolv/conf`
 
-    <p align="center">
+<p align="center">
    <img src="https://github.com/user-attachments/assets/3bc78086-a5b7-420b-aa62-291f2e89b33c"
 alt="Imagen de instalación" width="80%">
       </p>
 
 14. En la primera líena de nameserver agregue un #, guarde y cierre
 
-    <p align="center">
+<p align="center">
    <img src="https://github.com/user-attachments/assets/dc1269f6-4118-47f1-8dbc-29a20a7b855a"
 alt="Imagen de instalación" width="80%">
       </p>
@@ -386,7 +386,7 @@ alt="Imagen de instalación" width="80%">
 
 `nslookup kernel.org`
 
-    <p align="center">
+<p align="center">
    <img src="https://github.com/user-attachments/assets/a064f8df-9d65-4efc-9963-4213c2e67ef0"
 alt="Imagen de instalación" width="80%">
       </p>
