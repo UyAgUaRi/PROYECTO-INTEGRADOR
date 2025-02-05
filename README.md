@@ -209,14 +209,6 @@ INTRODUCCIÓN
 
 
 ### INSTALACIÓN DEL SERVIDOR - PLEX
-1. 3
-
-
-
-
-
-
-### INSTALACIÓN DEL SERVIDOR - DNS
 1. Descargue el plex, descargar el que esta subrayado
 
    <p align="center">
@@ -287,9 +279,15 @@ INTRODUCCIÓN
 10. De un nombre a la carpeta y siguiente
 
      <p align="center">
-   <img src="https://github.com/user-attachments/assets/52ae1835-e673-428f-9ba5-226715cd8ccb"
- alt="Imagen de instalación" width="80%">
+   <img src="https://github.com/user-attachments/assets/52ae1835-e673-428f-9ba5-226715cd8ccb" alt="Imagen de instalación" width="80%">
       </p>
+
+
+
+
+
+
+### INSTALACIÓN DEL SERVIDOR - DNS
 
 
 
