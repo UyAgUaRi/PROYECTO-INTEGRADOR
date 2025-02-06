@@ -20,8 +20,29 @@ INTRODUCCIÓN
 
 
 ### CREACIÓN DE UNA NUEVA MÁQUINA VIRTUAL
-1. 
+1. Abrir el software de virtualizacion: Inicie VirtualBox y haga click en "Nueva Maquina Virtual"
 
+2. Asignamos Recursos
+      
+     Nombre: Asignamos un nombre descriptivo, como "Servidor Centos" en este caso
+
+     Tipo: Selccionamos "Linux"
+
+     Version: Elegimos "Red Hat (64-bit)"
+
+     Memoria RAM: Asignamos al menos 2GB (2048 MB)
+
+     Disco Duro: Crea un disco virtual de al menos 20GB
+
+     Montar la Imagen ISO: En la configuracion de la maquina virtual, seleccionamos la imagen ISO de CentOS descargada 
+     previamente como medio de arranque
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/da30f6e1-60d7-45b0-aca5-7a9caa5ae063" alt="Imagen de instalación" width="80%">
+</p>
+
+
+     
 
 
 
