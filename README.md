@@ -72,25 +72,33 @@ INTRODUCCIÓN
    <img src="https://github.com/user-attachments/assets/8b32fff2-d910-4413-bd7e-0236a696cc3d" alt="Imagen de instalación" width="80%">
 </p>
 
-      6. Configuración del Disco:
-      Seleccionamos el disco virtual creado y hacemos click en "Done". CentOS configurará automáticamente las particiones.
+  6. Configuración del Disco:
+  Seleccionamos el disco virtual creado y hacemos click en "Done". CentOS configurará automáticamente las particiones.
 
-      7. Configuración de Red:
-      Activamos la conexión de red para que la máquina virtual tenga acceso a Internet.
+  7. Configuración de Red:
+  Activamos la conexión de red para que la máquina virtual tenga acceso a Internet.
 
-      8. Creación de Usuario:
-      Establece una contraseña para el usuario root y crea un usuario adicional para uso diario.
+  8. Creación de Usuario:
+  Establece una contraseña para el usuario root y crea un usuario adicional para uso diario.
 
-      9. Iniciar la Instalación:
-      Haz clic en "Begin Installation" y espera a que el proceso termine. Esto puede tardar varios minutos.
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/9267e8d5-f595-4d24-a801-e411f5f445a0" alt="Imagen de instalación" width="80%">
+</p>
 
+  9. Iniciar la Instalación:
+  Haz clic en "Begin Installation" y espera a que el proceso termine. Esto 
+  puede tardar varios minutos.
 
+  10. Post-Instalación
+  Una vez completada la instalación, reiniciamos la máquina virtual y 
+  seguimos estos pasos:
+  Iniciar Sesión: Ingresamos con el usuario creado durante la instalación.
+  Actualizar el Sistema: Ejecutamos el comando sudo yum update para 
+  asegurarnos de que el sistema esté actualizado.
 
-
-
-
-
-
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/eaa34836-5abf-4276-a891-ee667fc8a1e2" alt="Imagen de instalación" width="80%">
+</p>
 
 ### INSTALACIÓN DEL SERVIDOR - SSH
 1. Empezamos ejecutando el comando “sudo dnf install -y openssh-server” para instalar el servicio de ssh.
