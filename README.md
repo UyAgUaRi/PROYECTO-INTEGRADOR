@@ -22,7 +22,7 @@ INTRODUCCIÓN
 ### CREACIÓN DE UNA NUEVA MÁQUINA VIRTUAL
 1. Abrir el software de virtualizacion: Inicie VirtualBox y haga click en "Nueva Maquina Virtual"
 
-2. Asignamos Recursos
+     **Asignamos Recursos**
       
      Nombre: Asignamos un nombre descriptivo, como "Servidor Centos" en este caso
 
