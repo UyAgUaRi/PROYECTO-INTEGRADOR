@@ -42,25 +42,25 @@ INTRODUCCIÓN
 </p>
 
 ### INSTALACIÓN DE SISTEMA OPERATIVO - CentOS 9 Stream
-1. Proceso de Instalación de CentOS
+1. **Proceso de Instalación de CentOS**
    
       Una vez configurada la máquina virtual, iniciamos y seguimos estos pasos:
    
       Iniciar la Instalación:
-      1. Al arrancar la máquina virtual, aparecerá el menú de instalación de CentOS. Seleccionamos "Install CentOS " y 
-      presionamos Enter.
+      1. **Al arrancar la máquina virtual, aparecerá el menú de instalación de CentOS. Seleccionamos "Install CentOS " y 
+      presionamos Enter.**
 
-      2. Selección de Idioma:
+      2. **Selección de Idioma:**
       Elegimos el idioma preferido para la instalación y continuamos.
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/571c1337-5e7a-4e4b-b44f-56620b45729d" alt="Imagen de instalación" width="80%">
 </p>
 
-  4. Configuración de la Fecha y Hora:
+  4. **Configuración de la Fecha y Hora:**
   Seleccionamos la zona horaria correspondiente.
 
-  5. Selección del Software:
+  5. **Selección del Software:**
   Elegimos el entorno de software que deseamos instalar. Para un servidor básico, seleccionamos "Minimal Install". En 
   este caso necesitamos una interfaz gráfica por lo que elegimos "Server with GUI".
 
@@ -72,24 +72,24 @@ INTRODUCCIÓN
    <img src="https://github.com/user-attachments/assets/8b32fff2-d910-4413-bd7e-0236a696cc3d" alt="Imagen de instalación" width="80%">
 </p>
 
-  6. Configuración del Disco:
+  6. **Configuración del Disco:**
   Seleccionamos el disco virtual creado y hacemos click en "Done". CentOS configurará automáticamente las particiones.
 
-  7. Configuración de Red:
+  7. **Configuración de Red:**
   Activamos la conexión de red para que la máquina virtual tenga acceso a Internet.
 
-  8. Creación de Usuario:
+  8. **Creación de Usuario:**
   Establece una contraseña para el usuario root y crea un usuario adicional para uso diario.
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/9267e8d5-f595-4d24-a801-e411f5f445a0" alt="Imagen de instalación" width="80%">
 </p>
 
-  9. Iniciar la Instalación:
+  9. **Iniciar la Instalación:**
   Haz clic en "Begin Installation" y espera a que el proceso termine. Esto 
   puede tardar varios minutos.
 
-  10. Post-Instalación
+  10. **Post-Instalación**
   Una vez completada la instalación, reiniciamos la máquina virtual y 
   seguimos estos pasos:
   Iniciar Sesión: Ingresamos con el usuario creado durante la instalación.
