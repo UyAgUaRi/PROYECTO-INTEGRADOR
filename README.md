@@ -24,15 +24,15 @@ INTRODUCCIÓN
 
      **Asignamos Recursos**
       
-     Nombre: Asignamos un nombre descriptivo, como "Servidor Centos" en este caso
+     **Nombre:** Asignamos un nombre descriptivo, como "Servidor Centos" en este caso
 
-     Tipo: Selccionamos "Linux"
+     **Tipo:** Selccionamos "Linux"
 
-     Version: Elegimos "Red Hat (64-bit)"
+     **Version:** Elegimos "Red Hat (64-bit)"
 
-     Memoria RAM: Asignamos al menos 2GB (2048 MB)
+     **Memoria RAM:** Asignamos al menos 2GB (2048 MB)
 
-     Disco Duro: Crea un disco virtual de al menos 20GB
+     **Disco Duro:** Crea un disco virtual de al menos 20GB
 
      Montar la Imagen ISO: En la configuracion de la maquina virtual, seleccionamos la imagen ISO de CentOS descargada 
      previamente como medio de arranque
@@ -41,22 +41,49 @@ INTRODUCCIÓN
    <img src="https://github.com/user-attachments/assets/da30f6e1-60d7-45b0-aca5-7a9caa5ae063" alt="Imagen de instalación" width="80%">
 </p>
 
-
-     
-
-
-
-
-
-
-
-
-
-
-
-
 ### INSTALACIÓN DE SISTEMA OPERATIVO - CentOS 9 Stream
-1. 
+1. Proceso de Instalación de CentOS
+   
+      Una vez configurada la máquina virtual, iniciamos y seguimos estos pasos:
+   
+      Iniciar la Instalación:
+      1. Al arrancar la máquina virtual, aparecerá el menú de instalación de CentOS. Seleccionamos "Install CentOS " y 
+      presionamos Enter.
+
+      2. Selección de Idioma:
+      Elegimos el idioma preferido para la instalación y continuamos.
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/571c1337-5e7a-4e4b-b44f-56620b45729d" alt="Imagen de instalación" width="80%">
+</p>
+
+  4. Configuración de la Fecha y Hora:
+  Seleccionamos la zona horaria correspondiente.
+
+  5. Selección del Software:
+  Elegimos el entorno de software que deseamos instalar. Para un servidor básico, seleccionamos "Minimal Install". En 
+  este caso necesitamos una interfaz gráfica por lo que elegimos "Server with GUI".
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/acabcfbe-cf6b-4eb4-af98-6da15c4388b5" alt="Imagen de instalación" width="80%">
+</p>
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/8b32fff2-d910-4413-bd7e-0236a696cc3d" alt="Imagen de instalación" width="80%">
+</p>
+
+      6. Configuración del Disco:
+      Seleccionamos el disco virtual creado y hacemos click en "Done". CentOS configurará automáticamente las particiones.
+
+      7. Configuración de Red:
+      Activamos la conexión de red para que la máquina virtual tenga acceso a Internet.
+
+      8. Creación de Usuario:
+      Establece una contraseña para el usuario root y crea un usuario adicional para uso diario.
+
+      9. Iniciar la Instalación:
+      Haz clic en "Begin Installation" y espera a que el proceso termine. Esto puede tardar varios minutos.
+
 
 
 
