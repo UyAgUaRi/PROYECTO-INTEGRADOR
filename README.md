@@ -168,12 +168,57 @@ INTRODUCCIÓN
 
 
 ### INSTALACIÓN DEL SERVIDOR - SAMBA
-1. 
+1. Para que pueda empezar con la instalacion de samba hay que hacer un update.
 
+   `sudo dnf update`
 
+2. Utilice el siguiente comando para instalar samba
 
+   `sudo dnf install samba samaba-cammon samba-client`
 
+   <p align="center">
+<img src="https://github.com/user-attachments/assets/0067acde-1200-4b4e-b272-41cd39c200cb" alt="Imagen de instalación" width="80%">
+</p>
 
+4. Cree un directorio usando el siguiente comando
+
+   `mkdr ~/CARPETA`
+
+   <p align="center">
+<img src="https://github.com/user-attachments/assets/1ef6dc5b-7d4a-4cc1-acd3-d9728ed71f5e" alt="Imagen de instalación" width="80%">
+</p>
+
+5. Abra el archivo nano de samba y agregamos lo siguiente al final del archivo
+   
+`sudo nano /etc/samba/smb.conf`
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9a5115e6-eefc-4f6d-b871-92cd8d13ce55" alt="Imagen de instalación" width="80%">
+</p>
+
+6. Configure los permisos de firewall para que no haya errores al abrir
+
+   `sudo systemctl stop firewalld`
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/695d5291-84fc-4878-9f86-a8dff2e7da4c" alt="Imagen de instalación" width="80%">
+</p>  
+
+`sestatus`
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/c39b9253-05d2-46a7-ab75-bc9806e95f70" alt="Imagen de instalación" width="80%">
+</p> 
+
+`sudo restorecon -Rv “/home/usuario/DIRECTORIO"`
+
+`sudo systemctl restart smb`
+
+7. Asigne contraseña al usuario de samba con los siguientes comandos
+
+`sudo smbpasswd -a USUARIO` Luego de este comando asigne la contraseña
+
+`sudo smbpasswd -e USUARIO`
 
 
 
