@@ -176,19 +176,19 @@ INTRODUCCIÓN
 
    `sudo dnf install samba samaba-cammon samba-client`
 
-   <p align="center">
+<p align="center">
 <img src="https://github.com/user-attachments/assets/0067acde-1200-4b4e-b272-41cd39c200cb" alt="Imagen de instalación" width="80%">
 </p>
 
-4. Cree un directorio usando el siguiente comando
+3. Cree un directorio usando el siguiente comando
 
    `mkdr ~/CARPETA`
 
-   <p align="center">
+<p align="center">
 <img src="https://github.com/user-attachments/assets/1ef6dc5b-7d4a-4cc1-acd3-d9728ed71f5e" alt="Imagen de instalación" width="80%">
 </p>
 
-5. Abra el archivo nano de samba y agregamos lo siguiente al final del archivo
+4. Abra el archivo nano de samba y agregamos lo siguiente al final del archivo
    
 `sudo nano /etc/samba/smb.conf`
 
@@ -196,7 +196,7 @@ INTRODUCCIÓN
 <img src="https://github.com/user-attachments/assets/9a5115e6-eefc-4f6d-b871-92cd8d13ce55" alt="Imagen de instalación" width="80%">
 </p>
 
-6. Configure los permisos de firewall para que no haya errores al abrir
+5. Configure los permisos de firewall para que no haya errores al abrir
 
    `sudo systemctl stop firewalld`
 
@@ -214,7 +214,7 @@ INTRODUCCIÓN
 
 `sudo systemctl restart smb`
 
-7. Asigne contraseña al usuario de samba con los siguientes comandos
+6. Asigne contraseña al usuario de samba con los siguientes comandos
 
 `sudo smbpasswd -a USUARIO` Luego de este comando asigne la contraseña
 
