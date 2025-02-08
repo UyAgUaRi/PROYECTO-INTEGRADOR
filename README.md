@@ -488,15 +488,161 @@ alt="Imagen de instalación" width="80%">
 `nslookup kernel.org`
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/a064f8df-9d65-4efc-9963-4213c2e67ef0"
-alt="Imagen de instalación" width="80%">
+   <img src="https://github.com/user-attachments/assets/a064f8df-9d65-4efc-9963-4213c2e67ef0" alt="Imagen de instalación" width="80%">
       </p>
     
 ### INSTALACIÓN DEL SERVIDOR - ISSABEL
-1. 
+1. Cree una maquina cirtual con la iso previamente descara de su pagina oficial
 
+  Omitimos la instalacion desatendida, y seleccionamos "OTHER LINUX (64- bit)"
 
+  <p align="center">
+   <img src="https://github.com/user-attachments/assets/79273cc1-5649-4d07-9753-cae54e665f70" alt="Imagen de instalación" width="80%">
+      </p>
 
+2. Deje las especificaciones dl hardware por defecto, luego, dentro de las configuraciones de red cambiamos la conexion a adaptador puente
 
+3. Proceda a iniciar con la instalacion como un sistema operativo normal. (Arranque con la opcion: test this media & install.
+
+4. A continuacion configure diferentes aspectos como:
+     - Seleccion  de Sfotware - Issabel con Aesterik 18
+     - Idioma de Teclado
+     - Destino de la Instalacion
+     - Creacion de usuario y contraseña de root
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/74e08369-d1be-43dd-a0ae-4670249b2a9c" alt="Imagen de instalación" width="80%">
+      </p>
+
+  En el destino de la isntalacion active la opcion personalizada
+
+  <p align="center">
+   <img src="https://github.com/user-attachments/assets/41247ff5-8dfc-4e3d-b0ca-e7f20f634568" alt="Imagen de instalación" width="80%">
+      </p>
+
+  A continuacion, haga la configuracion automatica
+
+  <p align="center">
+   <img src="https://github.com/user-attachments/assets/69b33f5c-fa7b-446d-b84d-896ef4a5577c" alt="Imagen de instalación" width="80%">
+      </p>
+
+  Sin cambiar nada, haga click en hecho, y acepte los cambios.
+
+  En el apartado de red, cambie el nombre del equipo, y aplique los cambios
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/b2e1b73e-35a3-4616-9ae2-5ca6054f4033" alt="Imagen de instalación" width="80%">
+      </p>
+
+5. Empiece con la instalacion y espere que acabe la descarga, una vez cargado el sistema empezamos a configurar Issabel
+
+   Empiece agregando una contraseña a la base de datos
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/51a93656-af3e-4cfa-8507-97c5ff4c15e8" alt="Imagen de instalación" width="80%">
+      </p>
+
+   Ingrese una contraseña para el usuario administrador
+   
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/e2e36d6a-3aab-42e3-8cdf-857b1599e0ca" alt="Imagen de instalación" width="80%">
+      </p>
+
+   Elija un idioma
+   
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/d4339f9f-3abd-4811-a64b-35f8d777a770" alt="Imagen de instalación" width="80%">
+       </p>
+
+  Elija la segunda opcion, ya que la primera ya no recibe mantenimiento en Aesterik
+  
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/4fda1496-99c6-4e3b-9255-2fbf67c9d5b0" alt="Imagen de instalación" width="80%">
+       </p>
+
+  Con la consola cargada, ingrese el usuario root y contraseña para poder ver las especificaciones de la instalaciones.
+Como la ip “red local” con la que va a acceder desde el navegador.
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/9a21822b-7882-49b5-ace2-917d25a50497" alt="Imagen de instalación" width="80%">
+       </p>
+
+6. Ingrese a Issabel desde el navegador como anteriormente mencionamos
+
+   Al ingresar por primera vez, tendra que seleccionar la opción Avanzado → Continuar a IP (no seguro).
+   
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/bded0f62-351e-4427-b5fd-cbb31ba47813" alt="Imagen de instalación" width="80%">
+       </p>
+
+   Ahora ingrese el usuario y la contraseña asignada anteriormente, y con eso ya estaria funcionando el servidor
+
+   <p align="center">
+   <img src="https://github.com/user-attachments/assets/40466439-59f4-4fc5-8e76-67cd93bc18dd" alt="Imagen de instalación" width="80%">
+       </p>
+
+7. Primera extension
+
+   PRIMERA - EXTENSIÓN
+EXTENSIÓN PARA LLAMADAS : zoiper softphone “TELÉFONO”, descarguela en
+
+`https://www.zoiper.com/en/voip-softphone/download/current`
+
+Dentro del enlace, instale el archivo para windows con la opción gratuita.
+
+Ejecute e  instale la aplicación telefónica como una aplicación común de Windows
+
+8. Configuracion del servidor
+
+   Agregaremos una extensión:
+PBX - PBX Configuration - Aplications - Extensions
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/f43ece4c-a21c-4e5c-ba4c-58c592a778d7" alt="Imagen de instalación" width="80%">
+       </p>
+
+Agregue la extensión, nombre.
+Y elimine la contraseña del apartado Secret, para que quede en blanco
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/286e4fdd-da73-4a65-b214-8ba2951cea1b" alt="Imagen de instalación" width="80%">
+       </p>
+
+suba la primera extensión
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/7dfcc4cc-94d0-42e5-882d-6a2df08bc9df" alt="Imagen de instalación" width="80%">
+       </p>
+       
+SEGUNDA - EXTENSIÓN
+De igual manera agregue una nueva extensión, ingresando una extensión y nombre de usuario.
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/d147e88e-0459-485a-9293-d97667f2d18d" alt="Imagen de instalación" width="80%">
+       </p>
+    
+Elimine la contraseña, y guarde los cambios.
+Ahora aplique los cambios
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/f22031f5-18bc-4863-990b-4e6c9c59d25b" alt="Imagen de instalación" width="80%">
+       </p>
+
+ZOIPER
+Dentro de la aplicación cree una cuenta gratis.
+En el usuario, ingrese la extensión y la ip de Isabel
+“EXTENSIÓN” @ “IP”
+Y asignele una contraseña al usuario
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/1ed72faa-5b6f-42b9-a7f8-ce8f0135b9c8" alt="Imagen de instalación" width="80%">
+       </p>
+
+Seguido de esto haga click en siguiente, y saltar
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/afb974f5-4f4e-4777-9ea9-82601153b34c"
+ alt="Imagen de instalación" width="80%">
+       </p>
 
 
