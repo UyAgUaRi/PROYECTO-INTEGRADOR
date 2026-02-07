@@ -6,20 +6,17 @@
 <h1 align="center">Documentación de Servidores</h1>
 
 > 🌟 *Integrantes:*  
-> * Erick Uyaguari  
-> erick.uyaguari@ucuenca.edu.ec  
-> * Esteban Molina  
-> esteban.molina@ucuenca.edu.ec  
+> * Steven Matute  
+> steven.matute@ucuenca.edu.ec    
 > * Genaro Quezada  
 > genaro.quezada@ucuenca.edu.ec  
-> * Yadira Merchán  
-> nataly.merchan@ucuenca.edu.ec  
+
 
 
 INTRODUCCIÓN
 
 
-### CREACIÓN DE UNA NUEVA MÁQUINA VIRTUAL
+### LEVANTAMIENTO DE SERVIDORES BÀSICOS
 1. Abrir el software de virtualizacion: Inicie VirtualBox y haga click en "Nueva Maquina Virtual"
 
      **Asignamos Recursos**
