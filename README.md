@@ -34,6 +34,7 @@ INTRODUCCIÓN
      Montar la Imagen ISO: En la configuracion de la maquina virtual, seleccionamos la imagen ISO de CentOS descargada 
      previamente como medio de arranque
 
+
    <p align="center">
    <img src="https://github.com/user-attachments/assets/da30f6e1-60d7-45b0-aca5-7a9caa5ae063" alt="Imagen de instalación" width="80%">
 </p>
@@ -164,7 +165,7 @@ INTRODUCCIÓN
 
 
 
-### INSTALACIÓN DEL SERVIDOR - SAMBA
+### INSTALACIÓN DEL SERVIDOR - HTTP
 1. Para que pueda empezar con la instalacion de samba hay que hacer un update.
 
    `sudo dnf update`
@@ -488,7 +489,7 @@ alt="Imagen de instalación" width="80%">
    <img src="https://github.com/user-attachments/assets/a064f8df-9d65-4efc-9963-4213c2e67ef0" alt="Imagen de instalación" width="80%">
       </p>
     
-### INSTALACIÓN DEL SERVIDOR - ISSABEL
+### INSTALACIÓN DEL SERVIDOR - VOIPER
 1. Cree una maquina cirtual con la iso previamente descara de su pagina oficial
 
   Omitimos la instalacion desatendida, y seleccionamos "OTHER LINUX (64- bit)"
